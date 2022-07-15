@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Certificate-PKCS#12 on 0xEr3bus&#39;s Blog</title>
+    <link>https://blog.shashwatshah.me/tags/certificate-pkcs#12/</link>
+    <description>Recent content in Certificate-PKCS#12 on 0xEr3bus&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.shashwatshah.me/tags/certificate-pkcs#12/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Timelapse HTB Walkthrough</title>
+      <link>https://blog.shashwatshah.me/timelapse/</link>
+      <pubDate>Sun, 15 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.shashwatshah.me/timelapse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Search HTB Walkthrough</title>
+      <link>https://blog.shashwatshah.me/search/</link>
+      <pubDate>Sat, 30 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.shashwatshah.me/search/</guid>
+      <description>Search Search from Hackthebox submitted by dmw0ng. The machine is active directory-based. The machine Includes password spraying and Kerberoasting. The machine starts from port 80, where we find usernames, and eventually exploits GMSpassword. The machine&amp;rsquo;s stats given by the creator is HARD, but users have rated medium.
+Recon Starting the recon with Nmap, we found Kerberos, LDAP, DNS, which tells us that we are dealing with the domain controller.
+Nmap 53/tcp open domain syn-ack ttl 127 Simple DNS Plus 80/tcp open http syn-ack ttl 127 Microsoft IIS httpd 10.</description>
+    </item>
+    
+  </channel>
+</rss>
